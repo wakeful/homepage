@@ -1,0 +1,10 @@
+html, body {background-color:#070A0F;color:#FFFFFF;font-family:Georgia,serif;text-align:center;}
+a {color:#FFFFFF;text-decoration:none;}
+.link {color:#486C8C;font-size:25px;}
+.menu {text-align:right;}
+.text {color:#686B6E;font-size:11px;}
+.text a {margin-right: 10px;}
+.text a.last {margin-right:0;}
+#containter {margin:200px auto 0px;text-align:left;width:320px;}
+#containter p {font-weight:normal;}
+#containter span {font-size:10px;}
